@@ -1,16 +1,48 @@
-## Hi there 👋
+# Olá, eu sou Maria Isabele 👋
+# Hi, I'm Maria Isabele 👋
 
-<!--
-**isntmemaria/isntmemaria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Estudante de Sistemas para Internet  
+💻 Systems Analysis and Web Development student  
 
-Here are some ideas to get you started:
+🚀 Focada em Front-End, dados e desenvolvimento web  
+🚀 Focused on Front-End, data and web development  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍 Maceió, AL - Brazil  
+
+---
+
+## 🚀 Tecnologias | Technologies
+
+- HTML
+- CSS
+- JavaScript
+- React
+- Next.js
+- Git & GitHub
+
+---
+
+## 🌐 Portfólio | Portfolio
+
+🔗 https://isntmemaria.vercel.app
+
+---
+
+## 💼 LinkedIn
+
+🔗 https://linkedin.com/in/isntmemaria
+
+---
+
+## 📚 Atualmente estudando | Currently learning
+
+- React
+- TypeScript
+- UI/UX
+- APIs
+- Node.js
+
+---
+
+✨ Sempre aprendendo e construindo novos projetos!  
+✨ Always learning and building new projects!
