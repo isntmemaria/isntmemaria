@@ -19,6 +19,8 @@
 - React
 - Next.js
 - Git & GitHub
+- TypeScript
+- JAVA
 
 ---
 
